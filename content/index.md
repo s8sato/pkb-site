@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: pkb
+publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Personal Knowledge Base — ideas, reading notes, and diagrams.
